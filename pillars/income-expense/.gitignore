@@ -1,0 +1,11 @@
+# Keep synthetic example data in Git; real data stays local (see the root .gitignore)
+!*.example.csv
+database.csv
+agent_state.json
+my-dashboard.html
+decisions.csv
+review_queue.csv
+rules.csv
+profile.json
+alerts.txt
+__pycache__/
